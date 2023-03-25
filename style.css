@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    width: 100%;
+    height: 100%;
+}
+
+.buttonRandomColor{
+    position: fixed;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border-color: black;
+    border-radius: 100%;
+}
+
+.divVerticales{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    width: 10%;
+    height: 100vh;
+}
+.div2{
+    width: 10%;
+    height: 100vh;
+}
+.div3{
+    width: 10%;
+    height: 100vh;
+}
+.div4{
+    width: 10%;
+    height: 100vh;
+}
+.div5{
+    width: 10%;
+    height: 100vh;
+}
+.div6{
+    width: 10%;
+    height: 100vh;
+}
+.div7{
+    width: 10%;
+    height: 100vh;
+}
+.div8{
+    width: 10%;
+    height: 100vh;
+}
+.div9{
+    width: 10%;
+    height: 100vh;
+}
+.div10{
+    width: 10%;
+    height: 100vh;
+}
+
+
+
+.divHorizontales{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10%;
+}
+.div11{
+    width: 100%;
+    height: 5%;
+}
+.div12{
+    width: 100%;
+    height: 5%;
+}
+.div13{
+    width: 100%;
+    height: 5%;
+}
+.div14{
+    width: 100%;
+    height: 5%;
+}
+.div15{
+    width: 100%;
+    height: 5%;
+}
+.div16{
+    width: 100%;
+    height: 5%;
+}
+.div17{
+    width: 100%;
+    height: 5%;
+}
+.div18{
+    width: 100%;
+    height: 5%;
+}
+.div19{
+    width: 100%;
+    height: 5%;
+}
+.div20{
+    width: 100%;
+    height: 5%;
+}
+
+
+

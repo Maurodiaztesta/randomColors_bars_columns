@@ -9,11 +9,12 @@ main{
 
 .buttonRandomColor{
     position: fixed;
-    width: 200px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     background-color: white;
     border-color: black;
-    border-radius: 100%;
+    border-radius: 50%;
+    
 }
 
 .divVerticales{
@@ -117,6 +118,4 @@ main{
     width: 100%;
     height: 5%;
 }
-
-
 
